@@ -46,3 +46,20 @@
 .login-card button:hover {
   background: #234fc9;
 }
+
+.error {
+  color: #dc2626;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.success {
+  color: #16a34a;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+button:disabled {
+  background: gray;
+  cursor: not-allowed;
+}
