@@ -240,27 +240,17 @@ npm run build
 
 ### Login Page
 
-> Add a screenshot here.
+![Login Page](./docs/images/login-page.png)
 
-```
-docs/images/login-page.png
-```
 
 ### GitHub Actions CI
 
-> Add a screenshot here.
+![GitHub Actions CI](./docs/images/ci-workflow.png)
 
-```
-docs/images/ci-workflow.png
-```
 
 ### GitHub Pages Deployment
 
-> Add a screenshot here.
-
-```
-docs/images/deployment.png
-```
+![GitHub Pages Deployment](./docs/images/deployment.png)
 
 ---
 
@@ -298,9 +288,6 @@ Through this project I gained practical experience with:
 ## 👨‍💻 Author
 
 **Akila Prabath**
-
-- GitHub: https://github.com/Akila-Prabath
-- LinkedIn: *(Add your LinkedIn profile here)*
 
 ---
 
